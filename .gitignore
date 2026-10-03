@@ -1,3 +1,4 @@
 memo.md
 .venv
-
+.env
+peewee_db.sqlite
